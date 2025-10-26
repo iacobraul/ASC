@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\ASC\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\Raul\source\repos\ASC\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\Raul\source\repos\ASC\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\Raul\source\repos\ASC\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\ASC\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\ASC\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\Raul\source\repos\ASC\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
