@@ -1,0 +1,15 @@
+C:\Users\Raul\source\repos\ASC\BinaryClock\BinaryClock\bin\Debug\net8.0\BinaryClock.exe
+C:\Users\Raul\source\repos\ASC\BinaryClock\BinaryClock\bin\Debug\net8.0\BinaryClock.deps.json
+C:\Users\Raul\source\repos\ASC\BinaryClock\BinaryClock\bin\Debug\net8.0\BinaryClock.runtimeconfig.json
+C:\Users\Raul\source\repos\ASC\BinaryClock\BinaryClock\bin\Debug\net8.0\BinaryClock.dll
+C:\Users\Raul\source\repos\ASC\BinaryClock\BinaryClock\bin\Debug\net8.0\BinaryClock.pdb
+C:\Users\Raul\source\repos\ASC\BinaryClock\BinaryClock\obj\Debug\net8.0\BinaryClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\source\repos\ASC\BinaryClock\BinaryClock\obj\Debug\net8.0\BinaryClock.AssemblyInfoInputs.cache
+C:\Users\Raul\source\repos\ASC\BinaryClock\BinaryClock\obj\Debug\net8.0\BinaryClock.AssemblyInfo.cs
+C:\Users\Raul\source\repos\ASC\BinaryClock\BinaryClock\obj\Debug\net8.0\BinaryClock.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\ASC\BinaryClock\BinaryClock\obj\Debug\net8.0\BinaryClock.sourcelink.json
+C:\Users\Raul\source\repos\ASC\BinaryClock\BinaryClock\obj\Debug\net8.0\BinaryClock.dll
+C:\Users\Raul\source\repos\ASC\BinaryClock\BinaryClock\obj\Debug\net8.0\refint\BinaryClock.dll
+C:\Users\Raul\source\repos\ASC\BinaryClock\BinaryClock\obj\Debug\net8.0\BinaryClock.pdb
+C:\Users\Raul\source\repos\ASC\BinaryClock\BinaryClock\obj\Debug\net8.0\BinaryClock.genruntimeconfig.cache
+C:\Users\Raul\source\repos\ASC\BinaryClock\BinaryClock\obj\Debug\net8.0\ref\BinaryClock.dll
